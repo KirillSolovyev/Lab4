@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfMark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mark>
+    <GetMark>99999999</GetMark>
+  </Mark>
+  <Mark>
+    <GetMark>79</GetMark>
+  </Mark>
+  <Mark>
+    <GetMark>84</GetMark>
+  </Mark>
+  <Mark>
+    <GetMark>89</GetMark>
+  </Mark>
+</ArrayOfMark>
